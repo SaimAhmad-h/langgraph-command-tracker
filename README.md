@@ -1,3 +1,6 @@
+Click to watch the code
+https://colab.research.google.com/drive/1Ry8joq9gvi6vuCN5JY9LcUfH-9bBdDH-?usp=sharing
+
 # 🤖 LangGraph Command Tracker
 
 A LangGraph workflow that classifies, validates, and tracks file operation commands. Built to understand and demonstrate core LangGraph concepts — StateGraph, nodes, edges, conditional routing, and state accumulation.
